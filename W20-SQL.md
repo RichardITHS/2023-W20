@@ -36,7 +36,7 @@ CREATE TABLE Persons (</br>
 **Sätta in data:**
 </br>
 INSERT INTO Persons (FirstName, LastName, Address, City)</br>
-VALUES ('Smiths', 'Janes', '456 Elm St', 'Shelbyville');</br>
+VALUES ('Erik', 'Eriksson', '456 Elm St', 'Shelbyville');</br>
 </br>
 
 **Hämta data:**
