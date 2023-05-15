@@ -176,6 +176,7 @@ För det fjärde, ange valfritt namn som databas, postgres som ägare och klicka
 **Vänligen se inspelad lektion!**
 
 </br>
+
 ## Använda databasen i en backend-applikation
 </br>
 Först och främst så måste det finnas en mapp som vi förslagsvis kallar "backend".
